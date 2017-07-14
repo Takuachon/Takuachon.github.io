@@ -1,0 +1,19 @@
+header {
+  height: 50px;
+  background: gold;
+  text-align: center;
+  font-family: comic sans ms;
+}
+body{
+  background: blue;
+}
+img{
+  height: 455px;
+  border: 20px white;
+  float: right;
+}
+ol{
+  color: white;
+  font-size: 20px;
+  font-family: comic sans ms;
+}
